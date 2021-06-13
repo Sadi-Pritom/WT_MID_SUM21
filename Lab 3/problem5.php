@@ -1,3 +1,4 @@
+<html>
 <?php
 	$backColor = "green";
 	$fontColor = "red";
@@ -6,9 +7,8 @@
 ?>
 
 
-<html>
-	<head></head>
-	<body>
+
+	
 	    <table>
             <tr>
 						<td align = "left"><img src="image/AIUB_logo.png" width="<?php echo $imageWidth;  ?>" height="<?php echo $imageHeight; ?>"/></td>
@@ -18,6 +18,6 @@
 			</tr>
 		</table>
 
-		<a href="problem.html">Back</a>
-	</body>
+		
+	
 </html>
