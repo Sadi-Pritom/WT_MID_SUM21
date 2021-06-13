@@ -6,7 +6,7 @@
 $length=10;
 $width=20;
 $area=$length*$width;
-echo"the area is $area ";
+echo"the area is $area "."<br>";
 
 
 if($length==$width)
